@@ -40,7 +40,7 @@ Hi, I'm **Mokshil**! I'm a passionate **Software Developer** based in Ahmedabad.
 ## 📊 Mokshil's GitHub Stats
 
 - **Total Stars Earned:** 0  
-- **Total Commits (2025):** 28 
+- **Total Commits (2025):** 50 
 - **Total PRs:** [Add the number of PRs]  
 - **Total Issues Opened:** [Add the number of issues]  
 - **Contributed to (Last Year):** [Add specific repositories or stats]
