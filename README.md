@@ -29,7 +29,6 @@ Also familiar with: C++, Java
 
 ## GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MokshilShah&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MokshilShah&theme=github-dark&hide_border=true" />
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mokshil-shah-3057012a2/)
