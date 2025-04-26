@@ -6,7 +6,7 @@ I'm a passionate developer based in Ahmedabad, focused on building high-quality 
 
 ## Tech Stack
 ```
-Frontend    : HTML, CSS, JavaScript, SASS, Bootstrap
+Frontend    : HTML, CSS, JavaScript, SASS, Bootstrap, Tailwind
 Backend     : Node.js, Python
 Databases   : MySQL, PostgreSQL, MongoDB
 Also familiar with: C++, Java
