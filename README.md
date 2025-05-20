@@ -29,19 +29,6 @@ Hi, I'm **Mokshil Shah**, a passionate **Software Developer** based in Ahmedabad
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 ---
-## 📂 Featured Projects  
-Here are some of my notable projects:  
-- **[Store Billing System](https://github.com/MokshilShah/store-billing-system)** – A Java and PostgreSQL-based billing system with multi-level authentication.  
-- **[Crime Record Management System](https://github.com/MokshilShah/crime-record-management)** – A Java-based crime management system using custom data structures.  
----
-
-### **My GitHub Overview:**  
-- **Total Stars Earned:** ![GitHub stars](https://img.shields.io/github/stars/MokshilShah?style=social)  
-- **Total Commits (2025):** ![Commits](https://img.shields.io/github/commit-activity/y/MokshilShah)  
-- **Total PRs:** ![Pull Requests](https://img.shields.io/github/issues-pr/MokshilShah)  
-- **Total Issues Opened:** ![Issues](https://img.shields.io/github/issues/MokshilShah)  
-- **Contributions (Last Year):** ![Contributions](https://img.shields.io/github/contributors/MokshilShah)  
----
 ## 📬 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/mokshil-shah-3057012a2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
