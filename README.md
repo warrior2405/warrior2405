@@ -34,12 +34,7 @@ Here are some of my notable projects:
 - **[Store Billing System](https://github.com/MokshilShah/store-billing-system)** – A Java and PostgreSQL-based billing system with multi-level authentication.  
 - **[Crime Record Management System](https://github.com/MokshilShah/crime-record-management)** – A Java-based crime management system using custom data structures.  
 ---
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MokshilShah&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MokshilShah&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MokshilShah&theme=radical" alt="GitHub Activity Graph">
-</p>
+
 ### **My GitHub Overview:**  
 - **Total Stars Earned:** ![GitHub stars](https://img.shields.io/github/stars/MokshilShah?style=social)  
 - **Total Commits (2025):** ![Commits](https://img.shields.io/github/commit-activity/y/MokshilShah)  
