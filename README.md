@@ -1,16 +1,6 @@
 # 👋 Welcome to My GitHub Profile  
 Hi, I'm **Mokshil Shah**, a passionate **Software Developer** based in Ahmedabad. I specialize in building **high-quality web applications** using **JavaScript** and **Node.js**. I enjoy solving complex problems and contributing to open-source projects.  
 ---
-## 🚀 Technologies I Love  
-### **Frontend:**  
-- HTML, CSS, JavaScript, SASS, Bootstrap  
-### **Backend:**  
-- Python, Node.js  
-### **Databases:**  
-- MySQL, PostgreSQL, MongoDB  
-### **Other Technologies:**  
-- C++, Java  
----
 ## ⚙️ Tools and Tech I Work With  
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
